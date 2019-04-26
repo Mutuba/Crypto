@@ -8,4 +8,4 @@ const GENESIS_DATA = {
   nonce: 0,
   data: [{ name: "Mutuba" }, { City: "Nairobi" }]
 };
-module.exports = { GENESIS_DATA };
+module.exports = { GENESIS_DATA , MINE_RATE};
